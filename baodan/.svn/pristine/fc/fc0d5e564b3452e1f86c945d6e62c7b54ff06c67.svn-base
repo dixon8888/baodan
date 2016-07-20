@@ -1,0 +1,19 @@
+charset "UTF-8";
+body{background:#F7F7F7;}
+.login{position:relative;height:80px;background:#eeeeee;}
+.align{font-size:20px;font-weight:bold;color:#26a0df;margin-top:50px;left:30px;position:absolute;bottom:20px;}
+.new1{position:absolute;right:200px;bottom:10px;cursor:pointer;}
+.new2{position:absolute;right:100px;bottom:10px;}
+.qian{margin:150px 0 0 160px;width:458px;height:300px;border:solid 1px #ccc;float:left;border-radius:6px;}
+.login_main{margin-right:250px;margin-top:1px;float:right;}
+.login_list{position:relative;height:480px;width:450px;border:solid 2px #ccc;border-radius:6px;}
+.username1{width:200px;height:25px;margin:10px auto;border-radius:6px;}
+.username2{width:200px;height:25px;margin:10px auto;border-radius:6px;}
+.passwd1{width:200px;height:25px;margin:5px auto;border-radius:6px;}
+.passwd2{width:200px;height:25px;margin:5px auto;border-radius:6px;}
+.e_mail{width:200px;height:25px;margin:5px auto;border-radius:6px;}
+.telephone{width:200px;height:25px;margin:5px auto;border-radius:6px;}
+.yanzhengma{width:100px;height:25px;margin:5px auto;border-radius:6px;}
+.subttn{height:30px;width:60px;margin:30px 0 0 200px;cursor:pointer;}
+.set{height:30px;width:60px;cursor:pointer;}
+.verify{margin-top:1px; float:right;margin-right: 80px;}

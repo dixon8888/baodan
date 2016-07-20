@@ -1,0 +1,15 @@
+@charset "UTF-8";
+body{background:#F7F7F7;}
+.login{position:relative;height:80px;background:#eeeeee;}
+.align{font-size:20px;font-weight:bold;color:#26a0df;margin-top:50px;left:20px;position:absolute;bottom:20px;}
+.new1{position:absolute;right:200px;bottom:0}
+.new2{position:absolute;right:100px;bottom:0;cursor:pointer;}
+.qian{margin:180px 0 0 200px;width:458px;height:300px;border:solid 1px #ccc;float:left;}
+.login_main{margin-right:300px;margin-top:100px;float:right;}
+.login_list{position:relative;height:300px;width:400px;margin:30px auto;border:solid 2px #ccc;}
+.username{width:200px;height:25px;margin:10px auto;border-radius:6px;}
+.passwd{width:200px;height:25px;margin:5px auto;border-radius:6px;}
+.yanzhengma{width:60px;height:25px;margin:5px auto;border-radius:6px;}
+.subttn{height:30px;width:60px;margin:30px 0 0 200px;cursor:pointer;}
+.set{height:30px;width:60px;cursor:pointer;}
+.verify{margin-top:1px; float:right;margin-right: 60px;}

@@ -1,0 +1,55 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>深圳中融保险经纪有限公司保险平台</title>
+<h1 align="center"><b> <font color="#FF0000" size="6" > 深圳中融保险经纪有限公司保险平台 </font> </b></h1>
+<script language="javascript"> 
+      
+window.onbeforeunload = function() {
+  <?php
+  //sleep(120);
+  if ((time() - $_SESSION['mylogintime']) > (60*10))
+  {
+  unset($_SESSION["username"]);
+  unset($_SESSION["password"]);
+  }
+  ?>
+    return '';
+
+}
+　　　</script> 
+</head>
+<body>
+
+<style type="text/css">.onecenter{text-align:center;width:200px;}
+</style>
+
+<table cellspacing="0" cellpadding="0">
+<tr >
+<td class='onecenter'>投保人姓名</td> <td class='onecenter'>身份证号</td> <td class='onecenter'>险种</td> 
+<td class='onecenter'>车牌号</td> <td class='onecenter'>车架号</td> <td class='onecenter'>发动机号</td>
+<td class='onecenter'>注册日期</td> <td class='onecenter'>车辆品牌型号</td> <td class='onecenter'>保险起期</td>
+<td class='onecenter'>保费</td> <td class='onecenter'>是否已经缴费</td>  <td class='onecenter'>备注</td> <td class='onecenter'>编辑</td>
+</tr>
+
+</table>
+
+<foreach name="data" item="vo"> 
+
+<table border="1" cellspacing="0" cellpadding="0">
+
+<tr>
+<td class='onecenter'> {$vo.name} </td> <td class='onecenter'> {$vo.idcard} </td> <td class='onecenter'> {$vo.insurance} </td>
+<td class='onecenter'> {$vo.car_plate} </td> <td class='onecenter'> {$vo.car_frame} </td> <td class='onecenter'> {$vo.car_motor} </td>
+<td class='onecenter'> {$vo.car_register_date} </td> <td class='onecenter'> {$vo.car_model} </td> <td class='onecenter'> {$vo.car_insurance_date} </td>
+<td class='onecenter'> {$vo.insurance_price} </td> <td class='onecenter'> {$vo.ispaid} </td> <td class='onecenter'> {$vo.note} </td> 
+<td class='onecenter'>
+    <button style="background:red" onclick="window.open('http://zrrrt.com/baodan/index.php/Home/Form/edit2/id/{$vo.id}')">编辑</button> 
+</td>
+
+</tr> 
+</table>
+</foreach>
+
+</body>
+</html>

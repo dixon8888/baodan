@@ -1,0 +1,2170 @@
+[ 2016-06-27T08:55:26+08:00 ] 113.104.231.244 /baodan/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\944f2a54df02c019e3f64e484bd7bce8.php 第 28 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T08:55:27+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T08:55:36+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/manager.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T08:55:44+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/pwd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\zrrrt\baodan\Application\Home\Controller\FormController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `think_users` [ RunTime:0.0000s ]
+SQL: SELECT `username`,`password` FROM `think_users` WHERE ( username = "admin"  ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `username`,`password` FROM `think_users` WHERE ( username = "admin1" ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-06-27T08:55:44+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/read1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_form`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T08:55:51+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/edit3/id/MdjiIxO0O0Oo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 4 D:\phpStudy\WWW\zrrrt\baodan\ThinkPHP\Common\functions.php 第 1566 行.
+SQL: SELECT * FROM `think_form` WHERE `id` = 22 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T08:56:07+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/edit3/id/MdjiIxO0O0Oo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 4 D:\phpStudy\WWW\zrrrt\baodan\ThinkPHP\Common\functions.php 第 1566 行.
+SQL: SELECT * FROM `think_form` WHERE `id` = 22 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T09:31:08+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/manager.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T09:31:17+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/pwd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\zrrrt\baodan\Application\Home\Controller\FormController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `think_users` [ RunTime:0.0000s ]
+SQL: SELECT `username`,`password` FROM `think_users` WHERE ( username = "admin"  ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `username`,`password` FROM `think_users` WHERE ( username = "admin1" ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T09:31:25+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/pwd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\zrrrt\baodan\Application\Home\Controller\FormController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `think_users` [ RunTime:0.0000s ]
+SQL: SELECT `username`,`password` FROM `think_users` WHERE ( username = "admin"  ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `username`,`password` FROM `think_users` WHERE ( username = "admin1" ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-06-27T09:31:25+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/read1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_form`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T09:31:29+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/edit3/id/MdjiIxO0O0Oo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_form` WHERE `id` = 22 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T09:31:45+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/edit3/id/MdjiQxO0O0Oo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_form` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T09:31:55+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/edit3/id/MdjiIxO0O0Oo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_form` WHERE `id` = 22 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T11:26:52+08:00 ] 113.104.231.244 /baodan/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\944f2a54df02c019e3f64e484bd7bce8.php 第 28 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015625s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2016-06-27T11:26:52+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T15:11:10+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/manager.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T15:11:30+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/pwd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\zrrrt\baodan\Application\Home\Controller\FormController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `think_users` [ RunTime:0.0156s ]
+SQL: SELECT `username`,`password` FROM `think_users` WHERE ( username = "admin"  ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `username`,`password` FROM `think_users` WHERE ( username = "admin1" ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-06-27T15:11:30+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/read1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_form`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T15:11:34+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/edit3/id/MdjiIxO0O0Oo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_form` WHERE `id` = 22 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T15:14:42+08:00 ] 113.104.231.244 /baodan/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\944f2a54df02c019e3f64e484bd7bce8.php 第 28 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T15:14:42+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T15:14:55+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.8183116663713008
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015625s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2016-06-27T15:14:56+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.8183116663713008?0.06344481045380235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T15:14:57+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.8183116663713008?0.06344481045380235?0.8822116537485272
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T15:14:58+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.8183116663713008?0.06344481045380235?0.8822116537485272?0.12219222518615425
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T15:15:27+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/manager.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T15:15:34+08:00 ] 113.104.231.244 /baodan/index.php/Home/login/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\524a08806bc29449645d93a7a8f8e680.php 第 39 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T15:15:35+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T15:23:23+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/read1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_form`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T15:23:24+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: validate D:\phpStudy\WWW\zrrrt\baodan\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\phpStudy\WWW\zrrrt\baodan\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `think_form` SET `code`='1221',`insurance_points`='0' WHERE `id` = 22 [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T15:34:55+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/pwd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\zrrrt\baodan\Application\Home\Controller\FormController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `think_users` [ RunTime:0.0000s ]
+SQL: SELECT `username`,`password` FROM `think_users` WHERE ( username = "admin"  ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `username`,`password` FROM `think_users` WHERE ( username = "admin1" ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-06-27T15:34:55+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/read.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_form`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T15:34:57+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/edit2/id/23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_form` WHERE `id` = 23 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015625s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T15:37:59+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/edit2/id/23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_form` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T15:38:05+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/read.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_form`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T15:38:08+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/read.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `think_form`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T15:38:10+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/edit2/id/MdjiMxO0O0Oo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_form` WHERE `id` = 23 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T15:38:21+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/edit2/id/MdjiQxO0O0Oo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `think_form` WHERE `id` = 24 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T15:44:50+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/manager.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T15:45:30+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/manager.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T15:45:41+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/pwd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\zrrrt\baodan\Application\Home\Controller\FormController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `think_users` [ RunTime:0.0000s ]
+SQL: SELECT `username`,`password` FROM `think_users` WHERE ( username = "admin"  ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `username`,`password` FROM `think_users` WHERE ( username = "admin1" ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-06-27T15:45:41+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/read1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_form`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T15:45:47+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/manager.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T15:45:57+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/pwd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\zrrrt\baodan\Application\Home\Controller\FormController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `think_users` [ RunTime:0.0000s ]
+SQL: SELECT `username`,`password` FROM `think_users` WHERE ( username = "admin"  ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `username`,`password` FROM `think_users` WHERE ( username = "admin1" ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-06-27T15:45:57+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/read.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_form`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T15:46:01+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/edit2/id/MdjiIxO0O0Oo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_form` WHERE `id` = 22 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T15:46:17+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/manager.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T15:46:25+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/pwd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\zrrrt\baodan\Application\Home\Controller\FormController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `think_users` [ RunTime:0.0000s ]
+SQL: SELECT `username`,`password` FROM `think_users` WHERE ( username = "admin"  ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `username`,`password` FROM `think_users` WHERE ( username = "admin1" ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-06-27T15:46:25+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/read1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_form`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T15:46:27+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/edit3/id/MdjiMxO0O0Oo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `think_form` WHERE `id` = 23 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T15:46:49+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.6300028579223257
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T15:46:56+08:00 ] 113.104.231.244 /baodan/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_users` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: validate D:\phpStudy\WWW\zrrrt\baodan\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\phpStudy\WWW\zrrrt\baodan\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT `userid`,`username`,`nickname`,`password`,`lastdate`,`lastip` FROM `think_users` WHERE `username` = 'test' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `think_users` [ RunTime:0.0000s ]
+SQL: UPDATE `think_users` SET `loginnum`=loginnum+1 WHERE `username` = 'test' AND `userid` = 5 [ RunTime:0.0000s ]
+SQL: UPDATE `think_users` SET `username`='test',`password`='e10adc3949ba59abbe56e057f20f883e',`lastdate`='1467013616',`lastip`='113.104.231.244' WHERE `username` = 'test' AND `userid` = 5 [ RunTime:0.0000s ]
+
+[ 2016-06-27T15:46:56+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: vo D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\1f5e5996c04855f437895794ed1f7c86.php 第 97 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\1f5e5996c04855f437895794ed1f7c86.php 第 110 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\1f5e5996c04855f437895794ed1f7c86.php 第 116 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\1f5e5996c04855f437895794ed1f7c86.php 第 122 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\1f5e5996c04855f437895794ed1f7c86.php 第 128 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T15:48:24+08:00 ] 113.104.231.244 /baodan/index.php/Home/login/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\524a08806bc29449645d93a7a8f8e680.php 第 39 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T15:48:24+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T15:49:01+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.3360767664397044
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T15:49:03+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.3360767664397044?0.38176420251037624
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T15:49:04+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.3360767664397044?0.38176420251037624?0.8023286362453353
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T15:49:06+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.3360767664397044?0.38176420251037624?0.8023286362453353?0.17614905444242923
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T15:49:14+08:00 ] 113.104.231.244 /baodan/index.php/Home/login/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_users` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: validate D:\phpStudy\WWW\zrrrt\baodan\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `think_users` WHERE `username` = 'test4' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_users` WHERE `email` = 'test4@zrrrt.com' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_users` WHERE `mobile` = '13423232323' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: auto D:\phpStudy\WWW\zrrrt\baodan\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `think_users` (`nickname`,`username`,`password`,`email`,`mobile`,`regdate`,`regip`) VALUES ('test4','test4','e10adc3949ba59abbe56e057f20f883e','test4@zrrrt.com','13423232323','1467013754','113.104.231.244') [ RunTime:0.0000s ]
+SQL: UPDATE `think_users` SET `companyid`='12' WHERE ( userid = 12 ) [ RunTime:0.0000s ]
+
+[ 2016-06-27T15:49:14+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: vo D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\1f5e5996c04855f437895794ed1f7c86.php 第 97 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\1f5e5996c04855f437895794ed1f7c86.php 第 110 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\1f5e5996c04855f437895794ed1f7c86.php 第 116 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\1f5e5996c04855f437895794ed1f7c86.php 第 122 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\1f5e5996c04855f437895794ed1f7c86.php 第 128 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T15:49:26+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/insert
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: validate D:\phpStudy\WWW\zrrrt\baodan\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T16:50:39+08:00 ] 113.104.231.244 /baodan/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\50c9f5d2ef37c2cf131d5cf1381d3a4b.php 第 28 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031250s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T16:50:40+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T16:50:41+08:00 ] 113.104.231.244 /baodan/index.php/Home/login/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T16:50:41+08:00 ] 113.104.231.244 /baodan/index.php/Home/login/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T16:50:47+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T16:50:55+08:00 ] 113.104.231.244 /baodan/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_users` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: validate D:\phpStudy\WWW\zrrrt\baodan\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\phpStudy\WWW\zrrrt\baodan\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT `userid`,`username`,`nickname`,`password`,`lastdate`,`lastip` FROM `think_users` WHERE `username` = 'test1' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `think_users` [ RunTime:0.0000s ]
+SQL: UPDATE `think_users` SET `loginnum`=loginnum+1 WHERE `username` = 'test1' AND `userid` = 6 [ RunTime:0.0000s ]
+SQL: UPDATE `think_users` SET `username`='test1',`password`='81dc9bdb52d04dc20036dbd8313ed055',`lastdate`='1467017455',`lastip`='113.104.231.244' WHERE `username` = 'test1' AND `userid` = 6 [ RunTime:0.0000s ]
+
+[ 2016-06-27T16:50:55+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: vo D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\1f5e5996c04855f437895794ed1f7c86.php 第 97 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\1f5e5996c04855f437895794ed1f7c86.php 第 110 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\1f5e5996c04855f437895794ed1f7c86.php 第 116 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\1f5e5996c04855f437895794ed1f7c86.php 第 122 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\1f5e5996c04855f437895794ed1f7c86.php 第 128 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T16:51:13+08:00 ] 113.104.231.244 /baodan/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_users` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: validate D:\phpStudy\WWW\zrrrt\baodan\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2016-06-27T16:51:18+08:00 ] 113.104.231.244 /baodan/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_users` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: validate D:\phpStudy\WWW\zrrrt\baodan\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2016-06-27T16:51:25+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T16:51:26+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T16:51:29+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T16:51:30+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T16:51:39+08:00 ] 113.104.231.244 /baodan/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_users` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: validate D:\phpStudy\WWW\zrrrt\baodan\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\phpStudy\WWW\zrrrt\baodan\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT `userid`,`username`,`nickname`,`password`,`lastdate`,`lastip` FROM `think_users` WHERE `username` = 'test1' LIMIT 1   [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `think_users` [ RunTime:0.0000s ]
+SQL: UPDATE `think_users` SET `loginnum`=loginnum+1 WHERE `username` = 'test1' AND `userid` = 6 [ RunTime:0.0000s ]
+SQL: UPDATE `think_users` SET `username`='test1',`password`='c4ca4238a0b923820dcc509a6f75849b',`lastdate`='1467017498',`lastip`='113.104.231.244' WHERE `username` = 'test1' AND `userid` = 6 [ RunTime:0.0000s ]
+
+[ 2016-06-27T16:51:39+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: vo D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\1f5e5996c04855f437895794ed1f7c86.php 第 97 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\1f5e5996c04855f437895794ed1f7c86.php 第 110 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\1f5e5996c04855f437895794ed1f7c86.php 第 116 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\1f5e5996c04855f437895794ed1f7c86.php 第 122 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\1f5e5996c04855f437895794ed1f7c86.php 第 128 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:04:31+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:04:41+08:00 ] 113.104.231.244 /baodan/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_users` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: validate D:\phpStudy\WWW\zrrrt\baodan\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\phpStudy\WWW\zrrrt\baodan\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT `userid`,`username`,`nickname`,`password`,`lastdate`,`lastip` FROM `think_users` WHERE `username` = 'test10' LIMIT 1   [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:04:54+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:04:55+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:04:56+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:04:57+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603?0.6934139785272599
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:04:58+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603?0.6934139785272599?0.5666055186982255
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:05:02+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603?0.6934139785272599?0.5666055186982255?0.9593163801907896
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2016-06-27T17:05:03+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603?0.6934139785272599?0.5666055186982255?0.9593163801907896?0.05622848957695403
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:05:04+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603?0.6934139785272599?0.5666055186982255?0.9593163801907896?0.05622848957695403?0.041134592583835006
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:05:05+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603?0.6934139785272599?0.5666055186982255?0.9593163801907896?0.05622848957695403?0.041134592583835006?0.24595997964474337
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:05:12+08:00 ] 113.104.231.244 /baodan/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_users` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: validate D:\phpStudy\WWW\zrrrt\baodan\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\phpStudy\WWW\zrrrt\baodan\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT `userid`,`username`,`nickname`,`password`,`lastdate`,`lastip` FROM `think_users` WHERE `username` = 'test1' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `think_users` [ RunTime:0.0000s ]
+SQL: UPDATE `think_users` SET `loginnum`=loginnum+1 WHERE `username` = 'test1' AND `userid` = 6 [ RunTime:0.0000s ]
+SQL: UPDATE `think_users` SET `username`='test1',`password`='c4ca4238a0b923820dcc509a6f75849b',`lastdate`='1467018312',`lastip`='113.104.231.244' WHERE `username` = 'test1' AND `userid` = 6 [ RunTime:0.0000s ]
+
+[ 2016-06-27T17:05:12+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: vo D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\1f5e5996c04855f437895794ed1f7c86.php 第 97 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\1f5e5996c04855f437895794ed1f7c86.php 第 110 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\1f5e5996c04855f437895794ed1f7c86.php 第 116 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\1f5e5996c04855f437895794ed1f7c86.php 第 122 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\1f5e5996c04855f437895794ed1f7c86.php 第 128 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:08:44+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603?0.6934139785272599?0.5666055186982255?0.9593163801907896?0.05622848957695403?0.041134592583835006?0.24595997964474337?0.24028050810399815
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:08:45+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603?0.6934139785272599?0.5666055186982255?0.9593163801907896?0.05622848957695403?0.041134592583835006?0.24595997964474337?0.24028050810399815?0.6162612161566703
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:08:52+08:00 ] 113.104.231.244 /baodan/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_users` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: validate D:\phpStudy\WWW\zrrrt\baodan\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2016-06-27T17:08:59+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603?0.6934139785272599?0.5666055186982255?0.9593163801907896?0.05622848957695403?0.041134592583835006?0.24595997964474337?0.24028050810399815?0.6162612161566703?0.37823804427145824
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015625s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015625s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2016-06-27T17:09:00+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603?0.6934139785272599?0.5666055186982255?0.9593163801907896?0.05622848957695403?0.041134592583835006?0.24595997964474337?0.24028050810399815?0.6162612161566703?0.37823804427145824?0.005060946384970788
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:09:02+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603?0.6934139785272599?0.5666055186982255?0.9593163801907896?0.05622848957695403?0.041134592583835006?0.24595997964474337?0.24028050810399815?0.6162612161566703?0.37823804427145824?0.005060946384970788?0.9418543506222231
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:09:04+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603?0.6934139785272599?0.5666055186982255?0.9593163801907896?0.05622848957695403?0.041134592583835006?0.24595997964474337?0.24028050810399815?0.6162612161566703?0.37823804427145824?0.005060946384970788?0.9418543506222231?0.7615817326461707
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:09:06+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603?0.6934139785272599?0.5666055186982255?0.9593163801907896?0.05622848957695403?0.041134592583835006?0.24595997964474337?0.24028050810399815?0.6162612161566703?0.37823804427145824?0.005060946384970788?0.9418543506222231?0.7615817326461707
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:09:06+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603?0.6934139785272599?0.5666055186982255?0.9593163801907896?0.05622848957695403?0.041134592583835006?0.24595997964474337?0.24028050810399815?0.6162612161566703?0.37823804427145824?0.005060946384970788?0.9418543506222231?0.7615817326461707
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:09:06+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603?0.6934139785272599?0.5666055186982255?0.9593163801907896?0.05622848957695403?0.041134592583835006?0.24595997964474337?0.24028050810399815?0.6162612161566703?0.37823804427145824?0.005060946384970788?0.9418543506222231?0.7615817326461707?0.8896531987337074
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:09:13+08:00 ] 113.104.231.244 /baodan/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_users` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: validate D:\phpStudy\WWW\zrrrt\baodan\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\phpStudy\WWW\zrrrt\baodan\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT `userid`,`username`,`nickname`,`password`,`lastdate`,`lastip` FROM `think_users` WHERE `username` = 'test1' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:09:23+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603?0.6934139785272599?0.5666055186982255?0.9593163801907896?0.05622848957695403?0.041134592583835006?0.24595997964474337?0.24028050810399815?0.6162612161566703?0.37823804427145824?0.005060946384970788?0.9418543506222231?0.7615817326461707?0.8896531987337074?0.797164527327877
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:09:30+08:00 ] 113.104.231.244 /baodan/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_users` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: validate D:\phpStudy\WWW\zrrrt\baodan\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\phpStudy\WWW\zrrrt\baodan\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT `userid`,`username`,`nickname`,`password`,`lastdate`,`lastip` FROM `think_users` WHERE `username` = 'test1' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:09:40+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603?0.6934139785272599?0.5666055186982255?0.9593163801907896?0.05622848957695403?0.041134592583835006?0.24595997964474337?0.24028050810399815?0.6162612161566703?0.37823804427145824?0.005060946384970788?0.9418543506222231?0.7615817326461707?0.8896531987337074?0.797164527327877?0.9691528868631558
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:09:49+08:00 ] 113.104.231.244 /baodan/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_users` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: validate D:\phpStudy\WWW\zrrrt\baodan\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\phpStudy\WWW\zrrrt\baodan\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT `userid`,`username`,`nickname`,`password`,`lastdate`,`lastip` FROM `think_users` WHERE `username` = 'test1' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:14:26+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603?0.6934139785272599?0.5666055186982255?0.9593163801907896?0.05622848957695403?0.041134592583835006?0.24595997964474337?0.24028050810399815?0.6162612161566703?0.37823804427145824?0.005060946384970788?0.9418543506222231?0.7615817326461707?0.8896531987337074?0.797164527327877?0.9691528868631558?0.4370633568907004
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:14:27+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603?0.6934139785272599?0.5666055186982255?0.9593163801907896?0.05622848957695403?0.041134592583835006?0.24595997964474337?0.24028050810399815?0.6162612161566703?0.37823804427145824?0.005060946384970788?0.9418543506222231?0.7615817326461707?0.8896531987337074?0.797164527327877?0.9691528868631558?0.4370633568907004?0.6843145600527235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:14:35+08:00 ] 113.104.231.244 /baodan/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_users` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: validate D:\phpStudy\WWW\zrrrt\baodan\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\phpStudy\WWW\zrrrt\baodan\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT `userid`,`username`,`nickname`,`password`,`lastdate`,`lastip` FROM `think_users` WHERE `username` = 'test1' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031250s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:14:48+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603?0.6934139785272599?0.5666055186982255?0.9593163801907896?0.05622848957695403?0.041134592583835006?0.24595997964474337?0.24028050810399815?0.6162612161566703?0.37823804427145824?0.005060946384970788?0.9418543506222231?0.7615817326461707?0.8896531987337074?0.797164527327877?0.9691528868631558?0.4370633568907004?0.6843145600527235?0.4428643223569666
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:14:48+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603?0.6934139785272599?0.5666055186982255?0.9593163801907896?0.05622848957695403?0.041134592583835006?0.24595997964474337?0.24028050810399815?0.6162612161566703?0.37823804427145824?0.005060946384970788?0.9418543506222231?0.7615817326461707?0.8896531987337074?0.797164527327877?0.9691528868631558?0.4370633568907004?0.6843145600527235?0.4428643223569666?0.8507942003328837
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:14:49+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603?0.6934139785272599?0.5666055186982255?0.9593163801907896?0.05622848957695403?0.041134592583835006?0.24595997964474337?0.24028050810399815?0.6162612161566703?0.37823804427145824?0.005060946384970788?0.9418543506222231?0.7615817326461707?0.8896531987337074?0.797164527327877?0.9691528868631558?0.4370633568907004?0.6843145600527235?0.4428643223569666?0.8507942003328837?0.17084472797803585
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:14:59+08:00 ] 113.104.231.244 /baodan/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_users` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: validate D:\phpStudy\WWW\zrrrt\baodan\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\phpStudy\WWW\zrrrt\baodan\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT `userid`,`username`,`nickname`,`password`,`lastdate`,`lastip` FROM `think_users` WHERE `username` = 'test1' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:15:13+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603?0.6934139785272599?0.5666055186982255?0.9593163801907896?0.05622848957695403?0.041134592583835006?0.24595997964474337?0.24028050810399815?0.6162612161566703?0.37823804427145824?0.005060946384970788?0.9418543506222231?0.7615817326461707?0.8896531987337074?0.797164527327877?0.9691528868631558?0.4370633568907004?0.6843145600527235?0.4428643223569666?0.8507942003328837?0.17084472797803585?0.3555021724678846
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:15:15+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603?0.6934139785272599?0.5666055186982255?0.9593163801907896?0.05622848957695403?0.041134592583835006?0.24595997964474337?0.24028050810399815?0.6162612161566703?0.37823804427145824?0.005060946384970788?0.9418543506222231?0.7615817326461707?0.8896531987337074?0.797164527327877?0.9691528868631558?0.4370633568907004?0.6843145600527235?0.4428643223569666?0.8507942003328837?0.17084472797803585?0.3555021724678846?0.4452562308901069
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:15:17+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603?0.6934139785272599?0.5666055186982255?0.9593163801907896?0.05622848957695403?0.041134592583835006?0.24595997964474337?0.24028050810399815?0.6162612161566703?0.37823804427145824?0.005060946384970788?0.9418543506222231?0.7615817326461707?0.8896531987337074?0.797164527327877?0.9691528868631558?0.4370633568907004?0.6843145600527235?0.4428643223569666?0.8507942003328837?0.17084472797803585?0.3555021724678846?0.4452562308901069?0.7037061883405722
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:15:21+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603?0.6934139785272599?0.5666055186982255?0.9593163801907896?0.05622848957695403?0.041134592583835006?0.24595997964474337?0.24028050810399815?0.6162612161566703?0.37823804427145824?0.005060946384970788?0.9418543506222231?0.7615817326461707?0.8896531987337074?0.797164527327877?0.9691528868631558?0.4370633568907004?0.6843145600527235?0.4428643223569666?0.8507942003328837?0.17084472797803585?0.3555021724678846?0.4452562308901069?0.7037061883405722?0.22780689352450945
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:15:24+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603?0.6934139785272599?0.5666055186982255?0.9593163801907896?0.05622848957695403?0.041134592583835006?0.24595997964474337?0.24028050810399815?0.6162612161566703?0.37823804427145824?0.005060946384970788?0.9418543506222231?0.7615817326461707?0.8896531987337074?0.797164527327877?0.9691528868631558?0.4370633568907004?0.6843145600527235?0.4428643223569666?0.8507942003328837?0.17084472797803585?0.3555021724678846?0.4452562308901069?0.7037061883405722?0.22780689352450945?0.5902723246791154
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:15:31+08:00 ] 113.104.231.244 /baodan/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_users` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: validate D:\phpStudy\WWW\zrrrt\baodan\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2016-06-27T17:15:39+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603?0.6934139785272599?0.5666055186982255?0.9593163801907896?0.05622848957695403?0.041134592583835006?0.24595997964474337?0.24028050810399815?0.6162612161566703?0.37823804427145824?0.005060946384970788?0.9418543506222231?0.7615817326461707?0.8896531987337074?0.797164527327877?0.9691528868631558?0.4370633568907004?0.6843145600527235?0.4428643223569666?0.8507942003328837?0.17084472797803585?0.3555021724678846?0.4452562308901069?0.7037061883405722?0.22780689352450945?0.5902723246791154?0.06686637435418874
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:15:40+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603?0.6934139785272599?0.5666055186982255?0.9593163801907896?0.05622848957695403?0.041134592583835006?0.24595997964474337?0.24028050810399815?0.6162612161566703?0.37823804427145824?0.005060946384970788?0.9418543506222231?0.7615817326461707?0.8896531987337074?0.797164527327877?0.9691528868631558?0.4370633568907004?0.6843145600527235?0.4428643223569666?0.8507942003328837?0.17084472797803585?0.3555021724678846?0.4452562308901069?0.7037061883405722?0.22780689352450945?0.5902723246791154?0.06686637435418874?0.61531986584711
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:15:49+08:00 ] 113.104.231.244 /baodan/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_users` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: validate D:\phpStudy\WWW\zrrrt\baodan\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\phpStudy\WWW\zrrrt\baodan\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT `userid`,`username`,`nickname`,`password`,`lastdate`,`lastip` FROM `think_users` WHERE `username` = 'test' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `think_users` [ RunTime:0.0000s ]
+SQL: UPDATE `think_users` SET `loginnum`=loginnum+1 WHERE `username` = 'test' AND `userid` = 5 [ RunTime:0.0000s ]
+SQL: UPDATE `think_users` SET `username`='test',`password`='e10adc3949ba59abbe56e057f20f883e',`lastdate`='1467018949',`lastip`='113.104.231.244' WHERE `username` = 'test' AND `userid` = 5 [ RunTime:0.0156s ]
+
+[ 2016-06-27T17:15:49+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: vo D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\1f5e5996c04855f437895794ed1f7c86.php 第 97 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\1f5e5996c04855f437895794ed1f7c86.php 第 110 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\1f5e5996c04855f437895794ed1f7c86.php 第 116 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\1f5e5996c04855f437895794ed1f7c86.php 第 122 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\1f5e5996c04855f437895794ed1f7c86.php 第 128 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:16:12+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603?0.6934139785272599?0.5666055186982255?0.9593163801907896?0.05622848957695403?0.041134592583835006?0.24595997964474337?0.24028050810399815?0.6162612161566703?0.37823804427145824?0.005060946384970788?0.9418543506222231?0.7615817326461707?0.8896531987337074?0.797164527327877?0.9691528868631558?0.4370633568907004?0.6843145600527235?0.4428643223569666?0.8507942003328837?0.17084472797803585?0.3555021724678846?0.4452562308901069?0.7037061883405722?0.22780689352450945?0.5902723246791154?0.06686637435418874?0.61531986584711?0.24818794137515532
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:16:20+08:00 ] 113.104.231.244 /baodan/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_users` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: validate D:\phpStudy\WWW\zrrrt\baodan\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\phpStudy\WWW\zrrrt\baodan\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT `userid`,`username`,`nickname`,`password`,`lastdate`,`lastip` FROM `think_users` WHERE `username` = 'test' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `think_users` [ RunTime:0.0000s ]
+SQL: UPDATE `think_users` SET `loginnum`=loginnum+1 WHERE `username` = 'test' AND `userid` = 5 [ RunTime:0.0000s ]
+SQL: UPDATE `think_users` SET `username`='test',`password`='e10adc3949ba59abbe56e057f20f883e',`lastdate`='1467018980',`lastip`='113.104.231.244' WHERE `username` = 'test' AND `userid` = 5 [ RunTime:0.0000s ]
+
+[ 2016-06-27T17:16:20+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: vo D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\1f5e5996c04855f437895794ed1f7c86.php 第 97 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\1f5e5996c04855f437895794ed1f7c86.php 第 110 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\1f5e5996c04855f437895794ed1f7c86.php 第 116 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\1f5e5996c04855f437895794ed1f7c86.php 第 122 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\1f5e5996c04855f437895794ed1f7c86.php 第 128 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031250s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:16:28+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603?0.6934139785272599?0.5666055186982255?0.9593163801907896?0.05622848957695403?0.041134592583835006?0.24595997964474337?0.24028050810399815?0.6162612161566703?0.37823804427145824?0.005060946384970788?0.9418543506222231?0.7615817326461707?0.8896531987337074?0.797164527327877?0.9691528868631558?0.4370633568907004?0.6843145600527235?0.4428643223569666?0.8507942003328837?0.17084472797803585?0.3555021724678846?0.4452562308901069?0.7037061883405722?0.22780689352450945?0.5902723246791154?0.06686637435418874?0.61531986584711?0.24818794137515532?0.48931947042361923
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:16:28+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603?0.6934139785272599?0.5666055186982255?0.9593163801907896?0.05622848957695403?0.041134592583835006?0.24595997964474337?0.24028050810399815?0.6162612161566703?0.37823804427145824?0.005060946384970788?0.9418543506222231?0.7615817326461707?0.8896531987337074?0.797164527327877?0.9691528868631558?0.4370633568907004?0.6843145600527235?0.4428643223569666?0.8507942003328837?0.17084472797803585?0.3555021724678846?0.4452562308901069?0.7037061883405722?0.22780689352450945?0.5902723246791154?0.06686637435418874?0.61531986584711?0.24818794137515532?0.48931947042361923?0.8974989713524474
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:16:30+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603?0.6934139785272599?0.5666055186982255?0.9593163801907896?0.05622848957695403?0.041134592583835006?0.24595997964474337?0.24028050810399815?0.6162612161566703?0.37823804427145824?0.005060946384970788?0.9418543506222231?0.7615817326461707?0.8896531987337074?0.797164527327877?0.9691528868631558?0.4370633568907004?0.6843145600527235?0.4428643223569666?0.8507942003328837?0.17084472797803585?0.3555021724678846?0.4452562308901069?0.7037061883405722?0.22780689352450945?0.5902723246791154?0.06686637435418874?0.61531986584711?0.24818794137515532?0.48931947042361923?0.8974989713524474?0.1296347491362686
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:16:31+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603?0.6934139785272599?0.5666055186982255?0.9593163801907896?0.05622848957695403?0.041134592583835006?0.24595997964474337?0.24028050810399815?0.6162612161566703?0.37823804427145824?0.005060946384970788?0.9418543506222231?0.7615817326461707?0.8896531987337074?0.797164527327877?0.9691528868631558?0.4370633568907004?0.6843145600527235?0.4428643223569666?0.8507942003328837?0.17084472797803585?0.3555021724678846?0.4452562308901069?0.7037061883405722?0.22780689352450945?0.5902723246791154?0.06686637435418874?0.61531986584711?0.24818794137515532?0.48931947042361923?0.8974989713524474?0.1296347491362686?0.43558943012217344
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015625s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:16:33+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603?0.6934139785272599?0.5666055186982255?0.9593163801907896?0.05622848957695403?0.041134592583835006?0.24595997964474337?0.24028050810399815?0.6162612161566703?0.37823804427145824?0.005060946384970788?0.9418543506222231?0.7615817326461707?0.8896531987337074?0.797164527327877?0.9691528868631558?0.4370633568907004?0.6843145600527235?0.4428643223569666?0.8507942003328837?0.17084472797803585?0.3555021724678846?0.4452562308901069?0.7037061883405722?0.22780689352450945?0.5902723246791154?0.06686637435418874?0.61531986584711?0.24818794137515532?0.48931947042361923?0.8974989713524474?0.1296347491362686?0.43558943012217344?0.9612535285060202
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:16:34+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603?0.6934139785272599?0.5666055186982255?0.9593163801907896?0.05622848957695403?0.041134592583835006?0.24595997964474337?0.24028050810399815?0.6162612161566703?0.37823804427145824?0.005060946384970788?0.9418543506222231?0.7615817326461707?0.8896531987337074?0.797164527327877?0.9691528868631558?0.4370633568907004?0.6843145600527235?0.4428643223569666?0.8507942003328837?0.17084472797803585?0.3555021724678846?0.4452562308901069?0.7037061883405722?0.22780689352450945?0.5902723246791154?0.06686637435418874?0.61531986584711?0.24818794137515532?0.48931947042361923?0.8974989713524474?0.1296347491362686?0.43558943012217344?0.9612535285060202?0.5394965907355861
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:16:37+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603?0.6934139785272599?0.5666055186982255?0.9593163801907896?0.05622848957695403?0.041134592583835006?0.24595997964474337?0.24028050810399815?0.6162612161566703?0.37823804427145824?0.005060946384970788?0.9418543506222231?0.7615817326461707?0.8896531987337074?0.797164527327877?0.9691528868631558?0.4370633568907004?0.6843145600527235?0.4428643223569666?0.8507942003328837?0.17084472797803585?0.3555021724678846?0.4452562308901069?0.7037061883405722?0.22780689352450945?0.5902723246791154?0.06686637435418874?0.61531986584711?0.24818794137515532?0.48931947042361923?0.8974989713524474?0.1296347491362686?0.43558943012217344?0.9612535285060202?0.5394965907355861?0.5035975393214309
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:16:38+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603?0.6934139785272599?0.5666055186982255?0.9593163801907896?0.05622848957695403?0.041134592583835006?0.24595997964474337?0.24028050810399815?0.6162612161566703?0.37823804427145824?0.005060946384970788?0.9418543506222231?0.7615817326461707?0.8896531987337074?0.797164527327877?0.9691528868631558?0.4370633568907004?0.6843145600527235?0.4428643223569666?0.8507942003328837?0.17084472797803585?0.3555021724678846?0.4452562308901069?0.7037061883405722?0.22780689352450945?0.5902723246791154?0.06686637435418874?0.61531986584711?0.24818794137515532?0.48931947042361923?0.8974989713524474?0.1296347491362686?0.43558943012217344?0.9612535285060202?0.5394965907355861?0.5035975393214309?0.5418674002322424
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:16:45+08:00 ] 113.104.231.244 /baodan/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_users` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: validate D:\phpStudy\WWW\zrrrt\baodan\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\phpStudy\WWW\zrrrt\baodan\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT `userid`,`username`,`nickname`,`password`,`lastdate`,`lastip` FROM `think_users` WHERE `username` = 'test' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:16:50+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603?0.6934139785272599?0.5666055186982255?0.9593163801907896?0.05622848957695403?0.041134592583835006?0.24595997964474337?0.24028050810399815?0.6162612161566703?0.37823804427145824?0.005060946384970788?0.9418543506222231?0.7615817326461707?0.8896531987337074?0.797164527327877?0.9691528868631558?0.4370633568907004?0.6843145600527235?0.4428643223569666?0.8507942003328837?0.17084472797803585?0.3555021724678846?0.4452562308901069?0.7037061883405722?0.22780689352450945?0.5902723246791154?0.06686637435418874?0.61531986584711?0.24818794137515532?0.48931947042361923?0.8974989713524474?0.1296347491362686?0.43558943012217344?0.9612535285060202?0.5394965907355861?0.5035975393214309?0.5418674002322424?0.6749760748158109
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:17:00+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603?0.6934139785272599?0.5666055186982255?0.9593163801907896?0.05622848957695403?0.041134592583835006?0.24595997964474337?0.24028050810399815?0.6162612161566703?0.37823804427145824?0.005060946384970788?0.9418543506222231?0.7615817326461707?0.8896531987337074?0.797164527327877?0.9691528868631558?0.4370633568907004?0.6843145600527235?0.4428643223569666?0.8507942003328837?0.17084472797803585?0.3555021724678846?0.4452562308901069?0.7037061883405722?0.22780689352450945?0.5902723246791154?0.06686637435418874?0.61531986584711?0.24818794137515532?0.48931947042361923?0.8974989713524474?0.1296347491362686?0.43558943012217344?0.9612535285060202?0.5394965907355861?0.5035975393214309?0.5418674002322424?0.6749760748158109?0.8568100742803333
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:17:01+08:00 ] 113.104.231.244 /baodan/index.php/Home/Login/verify.html?0.14081894286755248?0.8755004766118444?0.5875001268183863?0.9997588069377755?0.1547647395698145?0.36069951237084574?0.9940232299506132?0.8261415406685488?0.9900337337442603?0.6934139785272599?0.5666055186982255?0.9593163801907896?0.05622848957695403?0.041134592583835006?0.24595997964474337?0.24028050810399815?0.6162612161566703?0.37823804427145824?0.005060946384970788?0.9418543506222231?0.7615817326461707?0.8896531987337074?0.797164527327877?0.9691528868631558?0.4370633568907004?0.6843145600527235?0.4428643223569666?0.8507942003328837?0.17084472797803585?0.3555021724678846?0.4452562308901069?0.7037061883405722?0.22780689352450945?0.5902723246791154?0.06686637435418874?0.61531986584711?0.24818794137515532?0.48931947042361923?0.8974989713524474?0.1296347491362686?0.43558943012217344?0.9612535285060202?0.5394965907355861?0.5035975393214309?0.5418674002322424?0.6749760748158109?0.8568100742803333?0.009926891313231545
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T17:17:08+08:00 ] 113.104.231.244 /baodan/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_users` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: validate D:\phpStudy\WWW\zrrrt\baodan\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\phpStudy\WWW\zrrrt\baodan\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT `userid`,`username`,`nickname`,`password`,`lastdate`,`lastip` FROM `think_users` WHERE `username` = 'test' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `think_users` [ RunTime:0.0000s ]
+SQL: UPDATE `think_users` SET `loginnum`=loginnum+1 WHERE `username` = 'test' AND `userid` = 5 [ RunTime:0.0000s ]
+SQL: UPDATE `think_users` SET `username`='test',`password`='e10adc3949ba59abbe56e057f20f883e',`lastdate`='1467019028',`lastip`='113.104.231.244' WHERE `username` = 'test' AND `userid` = 5 [ RunTime:0.0000s ]
+
+[ 2016-06-27T17:17:08+08:00 ] 113.104.231.244 /baodan/index.php/Home/Form/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: vo D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\1f5e5996c04855f437895794ed1f7c86.php 第 97 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\1f5e5996c04855f437895794ed1f7c86.php 第 110 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\1f5e5996c04855f437895794ed1f7c86.php 第 116 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\1f5e5996c04855f437895794ed1f7c86.php 第 122 行.
+NOTIC: [8] Undefined variable: vo D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\1f5e5996c04855f437895794ed1f7c86.php 第 128 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T19:15:33+08:00 ] 183.39.102.21 /baodan/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\phpStudy\WWW\zrrrt\baodan\Application\Runtime\Cache\Home\944f2a54df02c019e3f64e484bd7bce8.php 第 28 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-27T19:15:33+08:00 ] 183.39.102.21 /baodan/index.php/Home/Login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+

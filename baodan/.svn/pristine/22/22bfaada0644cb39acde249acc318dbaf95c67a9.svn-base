@@ -1,0 +1,45 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+<html>
+	<head>
+		<title> 保单报价系统 </title>
+		<meta charset="utf-8">
+		<link rel="icon" href="images/logo.png" type="image/x-icon">
+		<link href="/baodan/application/home/view/login/CSS/login.css" rel="stylesheet" type="text/css">
+	</head>
+	<body>
+		<div class="login">
+			<span class="align">中融保险经纪保险出单报价系统 </span>
+			  <!--  <a href="http://zrrrt.com/baodan/index.php/Home/login/register" class="new1">新用户注册</a>  -->
+				<a href="<?php echo U('Home/login/register');?>" class="new1">新用户注册</a>
+                <a class="new2" style="background:red"  onclick="window.open('<?php echo U('Home/Form/manager');?>')">管理员登入</a> 
+		</div><hr>
+		<div class="qian"><img src="/baodan/application/home/view/login/images/renren.jpg"></div>
+		<form action="/baodan/" method="post">
+			<div class="login_main">
+				<h2 style="text-align:center;">保险出单系统</h2	>
+			  <div class="login_list">
+					<h3 style="text-align:center;">登陆</h3>
+					<div style="margin-left:50px;">
+						用户名：<input type="text" class="username" name="username" placeholder="用户名"/><br>
+					  &nbsp;密 码：<input type="password" class="passwd" name="password" placeholder="密码"/><br>
+					  
+                    验证码：<input type="text" name="verify" class="yanzhengma" placeholder="验证码" />
+                <span class="glyphicon glyphicon-qrcode form-control-feedback" style="right:120px;"></span>
+                <img class="verify" src="<?php echo U(verify);?>" alt="验证码" onClick="this.src=this.src+'?'+Math.random()" />
+
+					</div>
+
+            
+
+					<div>
+                    <button type="submit"class="subttn">登录</button>
+                    
+                  
+					<input type="reset" class="set" name="set" value="取消">
+                  </div>
+
+			  </div>
+			</div>
+		</form>
+	</body>
+</html>
